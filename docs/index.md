@@ -2,88 +2,110 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Graham Pearl
+Detailed-oriented Software Developer, Computer Trainer and Web Developer
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/graham-pearl-19005/">LinkedIn</a>
+| <a href="https://github.com/GrahamPearl">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2020-2021`
 __Brigham Young University - Idaho__, Rexburg, ID
+Degree Name: Web Development - 
 
-- 4.0 Major GPA
+__University of KwaZulu-Natal__
+Degree Name: Bachelor of Education - BEd (Honors)
+Field Of Study: Curriculum and Instruction, Curriculum Studies
+Studied: 2015 – 2015
 
+ 
+__University of South Africa/Universiteit van Suid-Afrika__
+
+Degree Name / Bachelor of Science (BSc - H)
+Field Of Study: Information Science/Studies
+Studied: 2010 – 2014
+
+ 
+__University of KwaZulu-Natal__
+Degree Name / Bachelor’s Degree
+Field Of Study: PGCE
+Studied: 2006 – 2006
+
+`Expected 2022`
+__Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### Work Experience
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Hillcrest High School__
+IT Educator
+Company Name: Hillcrest High School
+Dates Employed: Apr 2017 – Present Employment
+Duration: 4 yrs
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+Location: Hillcrest, Durban, South Africa
+Loving the experience of being able to connect with both the IT subject and e-Learning approach of the school. Using of Moodle has been implemented within as a school-wide project and allows for assessment of learning to be completed electronically through student's own devices.
+ 
+__Freelancer - Developer and Instructor in Programming in Java and Delphi__
+Freelance Designer, Developer and Instuctor
+Company Name: Freelancer - Developer and Instructor in Programming in Java and Delphi
+Dates Employed: Jan 2017 – Present Employment 
+Duration: 4 yrs 7 months
+ 
+__Pretoria Boys High School__
+IT Educator
+Company Name: Pretoria Boys High School
+Dates Employed: Jan 2017 – Apr 2017
+Employment Duration: 4 months 
 
-### Data Science Lead
+Location: Pretoria Area, South Africa
+Took a post at Pretoria Boys High as the secondary IT teacher. Enjoyed the experience but had a job offer made which was more appealing in Durban, South Africa.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+__Felixton College__
+IT Educator
+Company Name: Felixton College
+Dates Employed: Oct 2015 – Jan 2017
+Employment Duration: 1 yr 4 months
+Location: Felixton, Richards Bay
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+__Abbotts College, Johannesburg South__
+IT Educator
+Company Name: Abbotts College, Johannesburg South
+Dates Employed: Jan 2013 – Oct 2014
+Employment Duration: 1 yr 10 mos
+Location: Johannesburg Area, South Africa
+Responsible for the instruction of programming OOP methodologies (Delphi) and the administration of the IT Department. Responsibilities additionally involved the support of desktop users and Windows Server. Fulfilled the additional responsibilities as a H.o.D (Head of Department).
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Software Developer
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`Jan 2000 - June 2002`
+__Maxima Software__, Consultant
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Developed a 3D OpenGL Database Rendering software for the Kitchen Cupboard Industry.
+- Used Visual Basic for spatial visualization and animation of components. 
+- Improved previous optimization algorithm of cutting board written in German into English.
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2006-2006`
+__INFT and Computer Sience Tutor__, UKZN: Edgewood (Java)
 
+`2015-2015`
+__INFT and Computer Sience Tutor__, UKZN: Edgewood (Delphi)
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+`2008-2010`
+__Service Missionary__, Salt Lake City Missin, USA
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2021 -->
 
 
