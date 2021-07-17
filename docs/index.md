@@ -17,6 +17,7 @@ Detailed-oriented Software Developer, Computer Trainer and Web Developer
 ## Education
 
 `2020-2021`
+<!--- Put dates for each of university that you studies at. --->
 __Brigham Young University - Idaho__, Rexburg, ID
 Degree Name: Web Development - 
 
